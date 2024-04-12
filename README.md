@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... I just need a job... so im trying to expand my skills!!
 - 📫 How to reach me ...emma.drouin@usm.edu
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I have a weird short finger and I love doing bbq compititions in my free time!!
+- ⚡ Fun fact: ... I love doing bbq compititions in my free time!!
+- I am also in the process of uploading all my old projects for my resume.. if you have any suggestions let me know :) 
 
 <!---
 emmalooloo123/emmalooloo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
