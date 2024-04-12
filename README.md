@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmalooloo123
 - 👀 I’m interested in ... Robotics!!!
 - 🌱 I’m currently learning ... Convolutional Neural Networks, Machine Learning, and Artificial Intelligence 
-- 💞️ I’m looking to collaborate on ... I just need a job... so im trying to expand my skills!!
+- 💞️ I’m looking to collaborate on ... I just need a job... so im trying to expand and showcase my skills!!
 - 📫 How to reach me ...emma.drouin@usm.edu
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I love doing bbq compititions in my free time!!
